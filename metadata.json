@@ -1,0 +1,6 @@
+{
+  "name": "EverFlow Energy",
+  "description": "Luxury zero-fuel, zero-solar, 0 dB silent clean power generators with flexible Pay-Small-Small installment plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
